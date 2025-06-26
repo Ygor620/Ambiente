@@ -1,6 +1,6 @@
 # Preparação de Ambiente.
 criar máquina virtual para a instalação de ferramentas e dependências para o estudo de algoritimo e lógica e programação.
-# Criar Doretório Base.
+# Criar Diretório Base.
 Crie um diretório para guardar a máquina virtual. No Drive D: crie uma nova pasta (nomeada com o nome do usuário).
 ![alt text](image-2.png)
 # Preparação da Máquina Virtual.
